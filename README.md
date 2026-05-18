@@ -10,7 +10,7 @@ Machine Learning Based Intrusion Detection System: A Comparative Study Using Dec
 Research Paper
 
 ## Current Status
-Submitted to AIC 2026 (IEEE/Scopus Indexed Conference)
-Submission ID: 2644 (via Microsoft CMT)
+Submitted to "2026 IEEE 5th World Conference on Applied Intelligence and Computing".
+
 
 
